@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "./dist",
+    "module": "commonjs",
+    "target": "ES2015",
+    "lib": ["ES2015", "DOM"],
+    "sourceMap": true,
+    "skipLibCheck": true,
+  },
+  "exclude": [
+    "spec/**/*.ts"
+  ]
+}
